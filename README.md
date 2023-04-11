@@ -116,3 +116,9 @@ plt.show()
 ### ERROR PLOT:
 ![image](https://user-images.githubusercontent.com/94228215/231069968-25998894-0603-40bb-b40a-ef24252b5548.png)
 
+### ACCURACY:
+![image](https://user-images.githubusercontent.com/94228215/231070263-9b563a10-799e-40fc-8841-7bebd5a28f64.png)
+
+### RESULT:
+Thus a perceptron for classification is implemented using python
+
